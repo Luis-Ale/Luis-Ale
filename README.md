@@ -5,6 +5,6 @@ I'm Entry level Cybersecurity Analyst in the making, focused on mastering securi
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 This repository is for demonstration of the different projects I'll make.
